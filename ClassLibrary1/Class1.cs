@@ -11,7 +11,6 @@ namespace ClassLibrary1
 
 	public class Class2
 	{
-		// restituisce il codice della partita IVA
 		public bool Odd(int num)
 		{
 			return num%2==1;
